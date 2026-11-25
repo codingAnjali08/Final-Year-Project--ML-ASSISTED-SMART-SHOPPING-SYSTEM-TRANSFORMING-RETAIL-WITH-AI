@@ -1,0 +1,2 @@
+# Final-Year-Project--ML-ASSISTED-SMART-SHOPPING-SYSTEM-TRANSFORMING-RETAIL-WITH-AI
+This project combines Machine Learning (ML) and Java to make shopping smarter. ML analyzes customer preferences and purchase history to recommend products, support pricing, and improve inventory management. The system calculates the total amount and automatically generates the bill, saving time and improving customer convenience.
